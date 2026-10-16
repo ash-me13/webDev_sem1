@@ -5,7 +5,7 @@
   width: 559px;
   height: 800px;
   flex-wrap:wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
   
 }
 
