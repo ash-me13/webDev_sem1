@@ -1,8 +1,9 @@
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: DodgerBlue;
-  flex-wrap: wrap;
+  height: 750px;
+  flex-wrap:wrap;
 }
 
 .container div {
@@ -11,4 +12,5 @@
   padding: 10px;
   text-align: center;  
   font-size: 30px;
+  width: 30px;
 }
