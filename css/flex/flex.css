@@ -2,8 +2,10 @@
   display: flex;
   flex-direction: row;
   background-color: DodgerBlue;
-  width: 140px;
+  width: 200px;
   flex-wrap:wrap;
+  justify-content: flex-start;
+  
 }
 
 .container div {
